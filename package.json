@@ -25,7 +25,7 @@
     "test:watch": "jest -c ./jest.config.js --watch",
     "test:coverage": "jest -c ./jest.config.js && codecov",
     "precommit": "lint-staged",
-    "release": "pika publish --branch main",
+    "release": "pika publish --any-branch --branch main",
     "version": "npm run build"
   },
   "dependencies": {
