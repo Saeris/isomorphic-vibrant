@@ -1,6 +1,6 @@
 {
   "name": "@saeris/isomorphic-vibrant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Drake Costa <drake@saeris.io> (https://github.com/Saeris/)",
   "license": "MIT",
   "description": "A library for extracting prominent colors from an image anywhere you can run JavaScript!",
