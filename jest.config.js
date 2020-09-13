@@ -1,6 +1,6 @@
 module.exports = {
   displayName: `isomorphic-vibrant`,
-  coverageDirectory: `./coverage/`,
+  coverageDirectory: `./.coverage/`,
   collectCoverage: true,
   collectCoverageFrom: [
     // include
