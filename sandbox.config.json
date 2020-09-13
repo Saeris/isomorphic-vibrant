@@ -1,6 +1,9 @@
 {
   "infiniteLoopProtection": true,
   "hardReloadOnChange": false,
-  "view": "browser",
+  "view": "terminal",
+  "container": {
+    "startScript": "test"
+  },
   "template": "node"
 }
