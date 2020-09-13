@@ -1,0 +1,19 @@
+# package directories
+node_modules
+
+# Directories
+.webpack
+.netlify
+/.coverage
+/dist
+/public
+/pkg
+/build
+/typings
+
+# Files
+.DS_STORE
+npm-debug.log*
+yarn-error.log*
+.env
+coverage.lcov

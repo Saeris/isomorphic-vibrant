@@ -1,0 +1,9 @@
+{
+	"name": "🎨 Isomorphic Vibrant",
+	"description": "A library for extracting prominent colors from an image anywhere you can run JavaScript!",
+	"noHeader": true,
+	"homepage:": "http://saeris.io",
+	"repo": "https://github.com/saeris/isomorphic-vibrant",
+	"favicon": "static/favicon.ico",
+	"styles": "styles/styles.css"
+}
